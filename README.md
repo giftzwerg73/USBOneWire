@@ -1,2 +1,2 @@
 # USBOneWire
-USB to OneWire on NUCLEO-L476RG
+USB to Serial to OneWire converter on NUCLEO-L476RG
